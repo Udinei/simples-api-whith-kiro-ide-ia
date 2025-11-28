@@ -1,0 +1,7 @@
+com\github\api\GitHubApiProxyApplication.class
+com\github\api\service\GitHubService.class
+com\github\api\model\UserListResponse.class
+com\github\api\controller\UserController.class
+com\github\api\client\GitHubClient.class
+com\github\api\model\User.class
+com\github\api\model\UserDetails.class
